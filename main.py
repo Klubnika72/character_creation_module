@@ -1,5 +1,5 @@
 
-<<<<<<< HEAD
+from random import randint
 """Иммпортируем рандом."""
 
 
