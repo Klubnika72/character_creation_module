@@ -1,5 +1,5 @@
-from random import randint
 
+<<<<<<< HEAD
 """Иммпортируем рандом."""
 
 
@@ -112,3 +112,5 @@ def main():
 
 
 main()
+=======
+>>>>>>> a459ef30904b699cf49192b2ea5bbfc2b67d1d46
